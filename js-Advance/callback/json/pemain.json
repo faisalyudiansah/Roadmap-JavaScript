@@ -1,0 +1,20 @@
+[
+    {
+        "nama" : "Ronaldo",
+        "club" : "Real Madrid",
+        "position" : "Striker",
+        "no" : 7
+    },
+    {
+        "nama" : "kaka",
+        "club" : "AC Milan",
+        "position" : "Midfielder",
+        "no" : 22
+    },
+    {
+        "nama" : "Ferdinand",
+        "club" : "Manchester United",
+        "position" : "Defender",
+        "no" : 4
+    }
+]

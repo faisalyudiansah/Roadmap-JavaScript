@@ -1,0 +1,17 @@
+[
+    {
+        "nama" : "Real Madrid",
+        "country" : "Spain",
+        "status" : "Win"
+    },
+    {
+        "nama" : "AC Milan",
+        "country" : "Italy",
+        "status" : "Win"
+    },
+    {
+        "nama" : "Manchester United",
+        "country" : "England",
+        "status" : "lose"
+    }
+]

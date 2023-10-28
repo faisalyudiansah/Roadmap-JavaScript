@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>spread operator</title>
+    <style>
+        body {
+            background-color: tomato;
+        }
+        
+        .title {
+            text-align: center;
+            color: white;
+            font-size: 50px;
+        }
+
+        .per-title {
+            /* span default display nya inline, dan inline tidak bisa di transform */
+            display: inline-block; 
+            transition: .2s;
+            cursor: pointer;
+        }
+        
+        .pre-wrap {
+            white-space: pre;
+        }
+
+        .per-title:hover {
+            transform: scale(2) translateY(-20px);
+        }
+    </style>
+</head>
+<body>
+    <ul>
+        <li class="nama">Ronaldo</li>
+        <li class="nama">Messi</li>
+        <li class="nama">Neymar</li>
+    </ul>
+    <div class="pre-wrap">
+        <h1 class="title">REAL MADRID</h1>
+    </div>
+    <script src="test.js"></script>
+</body>
+</html>
